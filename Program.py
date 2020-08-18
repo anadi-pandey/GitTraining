@@ -16,8 +16,13 @@ def Add(num1,num2):
 
 def Multiply(num1,num2):
     pro=num1*num2
+def substract(num1,num2)
+    diff = num1-num2
 
 print (diff)
 print (div)
-print(sum)
+
 print(pro)
+print diff 
+
+
