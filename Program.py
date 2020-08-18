@@ -7,6 +7,8 @@ def substract(num1,num2)
     if diff<0
         diff=diff*(-1)
 
+def divide(num1,num2):
+    div=num1/num2
 
 
 def Add(num1,num2):
@@ -16,6 +18,6 @@ def Multiply(num1,num2):
     pro=num1*num2
 
 print (diff)
-
+print (div)
 print(sum)
 print(pro)
